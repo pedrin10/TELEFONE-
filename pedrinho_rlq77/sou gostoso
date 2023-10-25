@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>www.guia não segura.com</title>
+</head>
+<body>
+    </html><h1> PEDRINHO LINDO FONE </h1>
+    <section class="teclado">
+        <input onclick="alert('tente dnv gatinho 1')" type="button" value="1">
+        <input onclick="alert('tente dnv gatinho 2')" type="button" value="2">
+        <input onclick="alert('tente dnv gatinho 3')" type="button" value="3">
+        <input onclick="alert('tente dnv gatinho 4')" type="button" value="4">
+        <input onclick="alert('tente dnv gatinho 5')" type="button" value="5">
+        <input onclick="alert('tente dnv gatinho 6')" type="button" value="6">
+        <input onclick="alert('tente dnv gatinho 7')" type="button" value="7">
+        <input onclick="alert('tente dnv gatinho 8')" type="button" value="8">
+        <input onclick="alert('tente dnv gatinho 9')" type="button" value="9">
+        <input onclick="alert('tente dnv gatinho *')" type="button" value="*">
+        <input onclick="alert('tente dnv gatinho 0')" type="button" value="0">
+        <input onclick="alert('tente dnv gatinho #')" type="button" value="#">
+        </section>
+        <input type="tel" placeholder="Digite seu telefone">
+          
+</body>
+</html><h1> ^para mais informções ligue aqui^ </h1>
+
